@@ -89,3 +89,5 @@ if st.button("Generate Clips"):
 
             except Exception as e:
                 st.error(f"⚠️ Error: {e}")
+
+# Trigger rebuild
